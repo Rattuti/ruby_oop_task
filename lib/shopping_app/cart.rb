@@ -1,3 +1,4 @@
+require_relative "Item_manager"
 require_relative "ownable"
 
 class Cart
